@@ -1,0 +1,6 @@
+.DS_Store
+match_detail/
+__pycache__
+data_file.py
+scratch.py
+
